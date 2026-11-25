@@ -1,4 +1,4 @@
-# 📚 CRUD de Livros em Java
+# CRUD de Livros em Java
 
 Sistema de cadastro de livros feito em Java, rodando pelo console. Dá pra listar, adicionar, atualizar e deletar livros, e os dados ficam salvos em um arquivo de texto, então não somem quando o programa fecha.
 
